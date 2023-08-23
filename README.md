@@ -14,4 +14,4 @@ I'm Yash Masane, a data science enthusiast currently pursuing my postgraduate st
 Let's explore the data world together! 🚀
 
 Best,
-[Yash]
+Yash
