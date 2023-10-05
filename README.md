@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-- 👋 Hi, I'm Yash a data science enthusiast on a journey of exploration.
-- 📚 Pursuing a Master's in Mathematics and Scientific Computing at MNNIT Allahabad.
+- 👋 Hi, I'm Yash a **data science enthusiast** on a journey of exploration.
+- 📚 Pursuing a Master's in **Mathematics and Scientific Computing** at MNNIT Allahabad.
 - 📊 Proficient in SQL and diving deep into the world of machine learning.
 - 🔍 Passionate about extracting insights from data and solving real-world problems.
-- 🌟 Exploring the intersections of math, code, and data.
+- 🌟 Exploring the intersections of **math, code, and data.**
 - 👨‍💻 Currently working on exciting data projects to sharpen my skills.
 - 📈 Constantly learning and growing in the world of data science.
 - 💌 Let's connect and collaborate on data-driven endeavors!
