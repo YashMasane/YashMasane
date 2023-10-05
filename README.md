@@ -1,12 +1,15 @@
 # Hi there! 👋
 
-I'm Yash Masane, a data science enthusiast currently pursuing my postgraduate studies in Mathematics and Scientific Computing at MNNIT Allahabad. 🎓 I'm passionate about:
+👋 Hi, I'm Yash a data science enthusiast on a journey of exploration.
+📚 Pursuing a Master's in Mathematics and Scientific Computing at MNNIT Allahabad.
+📊 Proficient in SQL and diving deep into the world of machine learning.
+🔍 Passionate about extracting insights from data and solving real-world problems.
+🌟 Exploring the intersections of math, code, and data.
+👨‍💻 Currently working on exciting data projects to sharpen my skills.
+📈 Constantly learning and growing in the world of data science.
+💌 Let's connect and collaborate on data-driven endeavors!
 
-- **Data Analysis:** Uncovering insights from messy data.
-- **Machine Learning:** Building predictive models.
-- **Data Visualization:** Creating compelling visuals.
-
-📚 Currently focused on data analysis, ML, and stats. Excited to share projects. Let's connect:
+📚 Excited to share projects. Let's connect:
 
 - [LinkedIn](https://www.linkedin.com/in/yashm08)
 - [Email](yashmasane68@gmail.com)
