@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Yash Masane, a data science enthusiast currently pursuing my postgraduate studies at MNNIT Allahabad. 🎓 I'm passionate about:
+I'm Yash Masane, a data science enthusiast currently pursuing my postgraduate studies in Mathematics and Scientific Computing at MNNIT Allahabad. 🎓 I'm passionate about:
 
 - **Data Analysis:** Uncovering insights from messy data.
 - **Machine Learning:** Building predictive models.
