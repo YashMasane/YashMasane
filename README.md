@@ -4,7 +4,7 @@
 - 📚 Pursuing a Master's in **Mathematics and Scientific Computing** at MNNIT Allahabad.
 - 📊 Proficient in SQL and diving deep into the world of machine learning.
 - 🔍 Passionate about extracting insights from data and solving real-world problems.
-- 🌟 Exploring the intersections of **math, code, and data.**
+- 🌟 Exploring the intersections of **math, code and data.**
 - 👨‍💻 Currently working on exciting data projects to sharpen my skills.
 - 📈 Constantly learning and growing in the world of data science.
 - 💌 Let's connect and collaborate on data-driven endeavors!
