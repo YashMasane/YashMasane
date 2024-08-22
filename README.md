@@ -1,9 +1,12 @@
-# Hi there! 👋 I'm Yash Masane
+[![MasterHead](https://media.licdn.com/dms/image/v2/C4D16AQFVEBNRKqh5dA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1647338677611?e=2147483647&v=beta&t=Zos4-JAjV47x-WRxGFI_JvrDebFt395OGlXnQ1gpgvQ)]()
 
+# Hi there! 👋 I'm Yash Masane
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
 ## About Me 🙋‍♂️
 🌟 **Passionate Data Scientist** and **Mathematics Enthusiast**.<br>
 📚 **Completed Master’s in Mathematics and Scientific Computing** from MNNIT Allahabad.<br>
 💻 **Specializing in** Python and SQL, with a focus on **Machine Learning** and **Deep Learning**.<br>
+🌱 **I’m currently learning** **Computer Vision** and **NLP**.<br>
 🔍 **Keen on** solving complex problems through data and exploring new technologies.<br>
 
 ## Languages and Tools 🛠️
@@ -33,6 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YashMasane&show_icons=true&theme=radical" alt="Yash's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashMasane&layout=compact&theme=radical" alt="Yash's Top Languages" height="165"/>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmasane&" alt="yashmasane" /></p>
 
 ## Connect 🌐
 <p align="center">
