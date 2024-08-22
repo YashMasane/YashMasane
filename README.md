@@ -2,6 +2,7 @@
 
 # Hi there! 👋 I'm Yash Masane
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
+
 ## About Me 🙋‍♂️
 🌟 **Passionate Data Scientist** and **Mathematics Enthusiast**.<br>
 📚 **Completed Master’s in Mathematics and Scientific Computing** from MNNIT Allahabad.<br>
@@ -37,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashMasane&layout=compact&theme=radical" alt="Yash's Top Languages" height="165"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmasane&" alt="yashmasane" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmasane&" alt="yashmasane" /></p>
 
 ## Connect 🌐
 <p align="center">
